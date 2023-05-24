@@ -13,6 +13,6 @@ pagina do Instagram
 ![apple-button](https://github.com/Myloveken/projeto-Transforma-tec/assets/98883069/bc70cc66-70ae-4721-af15-5ff39c9ba34f)
 
 # Em fim:
-## a imagem do meu perfil instagram:
+## A imagem do meu perfil instagram:
 
 ![Instagram png](https://github.com/Myloveken/projeto-Transforma-tec/assets/98883069/27dace08-30ec-4e74-be15-95f71020925c)
